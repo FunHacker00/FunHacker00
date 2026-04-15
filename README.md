@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/b14b1125-00f1-47b3-9096-61ca0f1180d6
 # 🌟 Welcome to My Profile!
 
 Hello! I am FunHacker00, a passionate software developer with a keen interest in building innovative solutions and learning new technologies. My journey in tech has been filled with excitement, and I love sharing my experiences and knowledge with the community.
@@ -157,7 +159,7 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
 ###
 
 <div align="center">
-  <img width="100%" src="https://youtu.be/VuYqq7IAddA?si=cHorCDC8Qd0tZjWH" alt="knight gif" />
+  <img width="100%" src="Uploading videoplayback.1772641295114.publer.com.mp4…" alt="knight gif" />
 </div>
 
 ###
