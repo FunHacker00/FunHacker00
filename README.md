@@ -157,7 +157,7 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
 ###
 
 <div align="center">
-  <img width="100%" src="./200.gif" alt="knight gif" />
+  <img width="100%" src="https://youtu.be/VuYqq7IAddA?si=cHorCDC8Qd0tZjWH" alt="knight gif" />
 </div>
 
 ###
@@ -166,7 +166,7 @@ Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise 
   <a href="https://discord.com/users/1434530342752092211" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://wa.me/67074350912" target="_blank">
+  <a href="https://wa.me/67074540824" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
