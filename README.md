@@ -28,6 +28,7 @@ I build small web and automation projects, explore code, and keep learning throu
 
 - [pythonweb](https://github.com/FunHacker00/pythonweb) — Python-based web-related project and experimentation repository
 - [jdmwebtest](https://github.com/FunHacker00/jdmwebtest) — web testing / HTML-based project
+- [FunHacker](https://github.com/FunHacker00/FunHacker) — profile README template experiment
 - [awesome-github-profile-readme-templates](https://github.com/FunHacker00/awesome-github-profile-readme-templates) — profile README inspiration and template collection
 
 ## GitHub Stats
